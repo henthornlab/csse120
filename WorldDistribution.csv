@@ -1,7 +1,11 @@
 CountryCode,State,Number
-USA,IN,3
+USA,IN,5
 USA,IL,2
 USA,OR,1
 USA,CA,1
+USA,FL,1
+USA,OH,3
+USA,TX,1
+USA,MO,1
 CHN,null,1
 KOR,null,1
